@@ -15,6 +15,11 @@ A=(np.random.random((N,1))*10.0)-5.0
 B=(np.random.random((N,1))*10.0)-3.0
 print A, B
 print A, B
+funcion (A,B):
+    if A < B
+        print ("A es menor que B")
+    else
+        print ("A NO es menor que b")
 
 
 
