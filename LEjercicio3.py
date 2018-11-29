@@ -38,4 +38,27 @@ n_iterations = 20000
 
 # Complete el codigo (puede reescribir lo anterior si prefiere que su codigo tenga otra estructura)
 # 1) IMPRIMA los mejores de valores de R y C encontrados
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 2) GRAFIQUE los datos originales y su ajuste. Guarde la grafica SIN MOSTRARLA en Ajuste.pdf. 
